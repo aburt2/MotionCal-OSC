@@ -1,0 +1,1 @@
+Fork of MotionCal by Paul Stoffregen. Adds functionality to connect to devices using Open Sound Control (OSC). Specifically designed for the [T-Stick](https://idmil.github.io/tstick-docs/) but can be adapted for any device using OSC.
